@@ -1,4 +1,5 @@
 # [WOTC] Mom, I'm Immune
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3646566000
 
 ## What is this?
 This mod adds adds a passive ability to all units that lists all damage types the unit is currently immune to.
