@@ -1,0 +1,28 @@
+[LocalizedDamageTypes]
+Fire                = "fire"
+Poison              = "poison"
+Acid                = "acid"
+Explosion           = "explosions"
+ParthenogenicPoison = "Chryssalid poison"
+Frost               = "frost"
+Electrical          = "electricity"
+Melee               = "melee"
+Psi                 = "psi"
+Radiation           = "radiation"
+Bleeding            = "bleeding"
+Stun                = "stun"
+Mental              = "mental effects"
+Panic               = "panic"
+Disorient           = "disorientation"
+KnockbackDamage     = "knockback"
+Unconscious         = "unconscious"
+ViperCrush          = "crush"
+Blind               = "blindness"
+EleriumPoisoning    = "Elerium poison"
+
+AHWRequiemCorrosion = "Requiem Corrosion"
+AHWNightmareBomb    = "Nightmare Bombs"
+AHWStrangle         = "strangle"
+; AHWRequiem = 
+; AHWSevereRequiemCorrosion =
+; AHWEnvironmentalRequiemCorrosion =

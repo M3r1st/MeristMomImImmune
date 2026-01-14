@@ -1,0 +1,6 @@
+[M31_MomImImmune X2AbilityTemplate]
+LocFriendlyName="Current Immunities"
+LocFlyOverText="Current Immunities"
+LocLongDescription="Immune to <Ability:M31_Immunities>."
+LocHelpText="Immune to <Ability:M31_Immunities>."
+LocPromotionPopupText=""
